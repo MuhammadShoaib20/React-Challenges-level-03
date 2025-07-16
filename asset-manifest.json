@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MuhammadShoaib20/React-Challenges-level-03/static/css/main.a48c2d32.css",
+    "main.js": "/MuhammadShoaib20/React-Challenges-level-03/static/js/main.7f524739.js",
+    "static/js/453.6a44ebdd.chunk.js": "/MuhammadShoaib20/React-Challenges-level-03/static/js/453.6a44ebdd.chunk.js",
+    "index.html": "/MuhammadShoaib20/React-Challenges-level-03/index.html",
+    "main.a48c2d32.css.map": "/MuhammadShoaib20/React-Challenges-level-03/static/css/main.a48c2d32.css.map",
+    "main.7f524739.js.map": "/MuhammadShoaib20/React-Challenges-level-03/static/js/main.7f524739.js.map",
+    "453.6a44ebdd.chunk.js.map": "/MuhammadShoaib20/React-Challenges-level-03/static/js/453.6a44ebdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a48c2d32.css",
+    "static/js/main.7f524739.js"
+  ]
+}
