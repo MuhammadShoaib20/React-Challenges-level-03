@@ -1,7 +1,7 @@
 {
   "name": "react_level_03",
   "version": "1.0.0",
-  "homepage": "https://MuhammadShoaib20.github.io/React-Challenges-level-03",
+
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "dependencies": {
